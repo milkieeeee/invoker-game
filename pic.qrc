@@ -1,0 +1,46 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/alacrity.png</file>
+        <file>image/chaos_meteor.png</file>
+        <file>image/cold_snap.png</file>
+        <file>image/deafening_blast.png</file>
+        <file>image/emp.png</file>
+        <file>image/exort.png</file>
+        <file>image/forge_spirit.png</file>
+        <file>image/ghost_walk.png</file>
+        <file>image/ice_wall.png</file>
+        <file>image/invoke.png</file>
+        <file>image/invoker_full.png</file>
+        <file>image/loading_scoreboard.gif</file>
+        <file>image/quas.png</file>
+        <file>image/sun_strike.png</file>
+        <file>image/tornado.png</file>
+        <file>image/wex.png</file>
+        <file>image/skills.PNG</file>
+        <file>image/skills1.png</file>
+        <file>image/skills2.png</file>
+        <file>icon/alacrity.png</file>
+        <file>icon/chaos_meteor.png</file>
+        <file>icon/cold_snap.png</file>
+        <file>icon/deafening_blast.png</file>
+        <file>icon/emp.png</file>
+        <file>icon/forge_spirit.png</file>
+        <file>icon/ghost_walk.png</file>
+        <file>icon/ice_wall.png</file>
+        <file>icon/sun_strike.png</file>
+        <file>icon/tornado.png</file>
+        <file>icon_fade/alacrity.png</file>
+        <file>icon_fade/chaos_meteor.png</file>
+        <file>icon_fade/cold_snap.png</file>
+        <file>icon_fade/deafening_blast.png</file>
+        <file>icon_fade/emp.png</file>
+        <file>icon_fade/forge_spirit.png</file>
+        <file>icon_fade/ghost_walk.png</file>
+        <file>icon_fade/ice_wall.png</file>
+        <file>icon_fade/sun_strike.png</file>
+        <file>icon_fade/tornado.png</file>
+        <file>image/new.gif</file>
+        <file>image/td.ico</file>
+        <file>image/td.png</file>
+    </qresource>
+</RCC>
